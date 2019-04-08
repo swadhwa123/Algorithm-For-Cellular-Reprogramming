@@ -1,0 +1,14 @@
+#figure out which stem cell data to use and read in that file, normalize the same way that the geo data is normalized if 
+#they are not already normalized
+#store information for theses stem cells in an array
+#Convert GEO normalized data from .txt to .csv
+#read in the file and store in array 
+#make a data frame with the time series data 
+
+#Use information from Hi-C or PCA to reduce dimensionality
+
+#Create state-dependent transition matrix, which gives us the deviation from the avg of each state as the cell evolves
+
+#Read in the B-matrix
+
+#Transcription factor stuff?
